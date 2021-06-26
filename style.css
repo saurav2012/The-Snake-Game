@@ -1,0 +1,35 @@
+body{
+     background-image: url("./background.jpg");  
+     background-size: cover; 
+}
+.row{
+       padding-top: 100px;
+       padding-left: 500px;
+       font-size: 32pt;
+       color: white;
+       font-weight: 1000;
+}
+.row1{
+       
+       padding-top: 25px;
+       padding-left: 1045px;
+       padding-right: 360px;
+       font-size: 18pt;
+       color: white;
+       font-weight: 1000;
+}
+.col
+{
+       padding-left: 5px;
+       border: 3px solid white;
+       /* padding-right: 300px;; */
+}
+#mycanvas{
+
+       width: 50vw;
+       height: 50vh;
+       border: 5px solid orange;
+       background-color: black;
+       margin-left: 25vw;
+       color:
+}
